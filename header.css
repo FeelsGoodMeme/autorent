@@ -1,0 +1,24 @@
+header{
+	height: 115px;
+}
+
+.logo{
+	margin-top: 15px;
+	margin-left: 30px;
+}
+
+.nav-el{
+	line-height: 115px;
+	color: #565656;
+	font-weight: bold;
+	font-size: 10pt;
+}
+	.nav-el a {
+		color: #565656;
+		text-decoration: none;
+	}
+.nav-el a:hover{
+	color: #565656;
+		text-decoration: none;
+	cursor: pointer;
+}

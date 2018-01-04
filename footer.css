@@ -1,0 +1,56 @@
+
+.footer{
+	
+	height: 350px;
+	background-color: 	#323232;
+	
+}
+
+.phone{
+	margin-left: 60px;
+	margin-top: 30px;
+	font-size: 15pt;
+	font-weight: lighter;
+	color: white;
+}
+
+
+.soc-net{
+
+	margin-top: 40px;
+	font-size: 15pt;
+	font-weight: lighter;
+	color: white;
+}
+
+
+.icon{
+	margin-top: 15px;
+}
+
+.mail{
+	margin-top: 40px;
+	font-size: 15pt;
+	font-weight: lighter;
+	color: white;
+}
+
+
+.rights{
+	margin-top: 100px;
+	color:darkgrey;
+}
+
+
+
+
+
+
+
+
+
+
+
+.hint{
+	color: orangered;
+}
